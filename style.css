@@ -75,8 +75,7 @@ main {
   }
 
   .step-box:last-child {
-  margin: 0 20px auto;
-  padding-bottom: 0;
+    margin: 0 auto;
   }
 
 }
